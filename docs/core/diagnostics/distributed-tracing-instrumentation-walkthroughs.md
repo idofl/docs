@@ -7,7 +7,7 @@ ms.date: 03/14/2021
 
 # Adding distributed tracing instrumentation
 
-**This article applies to: ✔️** .NET Core 2.1 and later versions **✔️** .NET Framework 4.5 and later versions
+**This article applies to: ✔️** .NET Core 2.1 and later versions **
 
 .NET applications can be instrumented using the <xref:System.Diagnostics.Activity?displayProperty=nameWithType> API to produce
 distributed tracing telemetry. Some instrumentation is built into standard .NET libraries, but you may want to add more to make
